@@ -51,8 +51,11 @@ Additionally, you can provide additional visual representations of how the code 
 diagrams.
 
 ## Environment:
-- Spark Version: 3.3.1
+Make sure you have Java and Python runtime environment set up on your machine.
+
+- OpenJDK 11.0.8
 - Python Version: 3.7
+- Spark Version: 3.3.1
 
 ## Install pyspark
 ```
